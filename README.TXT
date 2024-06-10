@@ -3,7 +3,7 @@ Proyecto: Sistema de Gestión de Prevención de Riesgos
 Integrantes: orma Jeldres
 
 
-Repositorios en GitHub: 
+Repositorios en GitHub: https://github.com/Normajel/SprintModulo6.git
 
 Resumen del Proyecto:
 El Sistema de Gestión de Prevención de Riesgos es una aplicación web diseñada para ayudar a las empresas a gestionar y mitigar los riesgos laborales en el lugar de trabajo. 
